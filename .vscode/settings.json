@@ -1,3 +1,4 @@
 {
-    "debug.disassemblyView.showSourceCode": true
+  "debug.disassemblyView.showSourceCode": true,
+  "liveServer.settings.port": 5501
 }
